@@ -32,6 +32,8 @@ LoginTest
     Click Link     Logout  
     Close Browser 
     Log    Test Completed 
+MyFourthTest
+    Log   I am inside the 4th Test   
     
     
 *** Variables ***
